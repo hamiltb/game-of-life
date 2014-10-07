@@ -3,7 +3,7 @@ package com.wakaleo.gameoflife.domain;
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
-    this is a line which shold cause a build failure
+    this is a line which shold cause a build failure, and again
     
     private String symbol;
 
