@@ -3,6 +3,8 @@ package com.wakaleo.gameoflife.domain;
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
+    this is a line which shold cause a build failure
+    
     private String symbol;
 
     private Cell(final String initialSymbol) {
