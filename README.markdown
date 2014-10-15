@@ -2,7 +2,7 @@
 
 ## Building the project
 
-The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
+The project is a really braindead simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
 
 ## Running the game
 
